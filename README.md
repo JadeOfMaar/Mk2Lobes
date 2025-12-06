@@ -1,4 +1,4 @@
-![imgur](https://i.imgur.com/ZmgrUg1.png)
+![imgur]([https://i.imgur.com/ZmgrUg1.png](https://i.imgur.com/NcqGnN0.png))
 Slicing the carrot the other way, this kit adds a few interesting new options for spaceplane ...or fighter plane design.
 
 Among the engines are a radial strutjet and two inline engines for VTOL.
